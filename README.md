@@ -12,25 +12,26 @@ The data worked on was a spreadsheet of sales data from an imaginary company
 - Created a dashboard containing charts and tables
 
 
-# Pivot Table
+## Pivot Table
 - Made sure all columns were of the correct format and trimmed all columns of unnecessary spaces
 - Sheet was converted into a table for easier analysis after data was cleaned and validated
 - Created a pivot table  to find the total sales for each month
   - the month column was created by using the text function on the orderdate column to extract the month in the format "mmm" (For example, 01 = Jan)
   
   
-# Line Chart
+## Line Chart
  
  The line chart was created to visualize the summary of Total sales for each month from the pivot table 
 
-# Bar Chart
+## Bar Chart
  
  The Bar chart was created to visualize the summary of Total sales by Salesperson based off a new pivot table created
 
-# Pie Chart
+## Pie Chart
 
-
-# Dashboard
-
+ 2 Pie charts were created to show the percentage of sales by city and the percentage of sales by category
+ 
+## Dashboard
+ The dashboard was created to show all the summarized data on one screen to show the overview of the data
 
 # Visualization
