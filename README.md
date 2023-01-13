@@ -34,4 +34,15 @@ The data worked on was a spreadsheet of sales data from an imaginary company
 ## Dashboard
  The dashboard was created to show all the summarized data on one screen to show the overview of the data
 
-# Visualization
+# Visualizations
+
+![dashboard](https://user-images.githubusercontent.com/58373408/212338683-91979176-727e-43a8-81fe-202a55734567.png)
+
+![Percentage of sales by category](https://user-images.githubusercontent.com/58373408/212338685-819aaa28-2380-4698-982b-062371ac49f0.png)
+
+![Sales by Month](https://user-images.githubusercontent.com/58373408/212338688-ea36f789-4ad9-4f3d-b808-e707c72a165d.png)
+
+![Sales by Salesperson](https://user-images.githubusercontent.com/58373408/212338691-4d29adae-2768-4f64-8536-775993d6fc52.png)
+
+![Sales Profits by City](https://user-images.githubusercontent.com/58373408/212338692-32660824-093e-4c29-976b-c4edc8ef9073.png)
+
