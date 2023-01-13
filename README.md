@@ -20,10 +20,12 @@ The data worked on was a spreadsheet of sales data from an imaginary company
   
   
 # Line Chart
-
+ 
+ The line chart was created to visualize the summary of Total sales for each month from the pivot table 
 
 # Bar Chart
-
+ 
+ The Bar chart was created to visualize the summary of Total sales by Salesperson based off a new pivot table created
 
 # Pie Chart
 
