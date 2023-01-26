@@ -51,5 +51,6 @@ The data worked on was a spreadsheet of sales data from an imaginary company
 
 Created a project management tracker to show proficiency in organizing and formatting tables, adding dropdown menus and conditional formatting to highlight the status of a task.
 
+Tracker: https://github.com/paalaxus/Excel-Charts-Dashboards/blob/main/Project%20Tracker.xlsx
 
 
