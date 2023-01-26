@@ -1,4 +1,4 @@
-# Excel-Charts-Dashboards
+# Excel-Charts-Dashboards & Project Management Tracker
 
 This was a short project used to demonstrate proficiency in creating charts, dashboards and pivot tables in Excel
 The data worked on was a spreadsheet of sales data from an imaginary company 
