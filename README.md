@@ -46,3 +46,10 @@ The data worked on was a spreadsheet of sales data from an imaginary company
 
 ![Sales Profits by City](https://user-images.githubusercontent.com/58373408/212338692-32660824-093e-4c29-976b-c4edc8ef9073.png)
 
+
+# Project Management tracker
+
+Created a project management tracker to show proficiency in organizing and formatting tables, adding dropdown menus and conditional formatting to highlight the status of a task.
+
+
+
